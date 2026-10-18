@@ -13,4 +13,4 @@
 
 ## 产品
 
-[小竹写作](https://xiaozhu-tec.cloud/products/writing-assistant)、[聊天助手](https://xiaozhu-tec.cloud/products/chat-assistant)、[备忘助手](https://xiaozhu-tec.cloud/products/memo-assistant)、[Drive](https://xiaozhu-tec.cloud/products/drive)。
+[小竹写作](https://xiaozhu-tec.cloud/products/writing-assistant).
